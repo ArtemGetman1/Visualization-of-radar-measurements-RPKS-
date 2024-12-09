@@ -1,10 +1,10 @@
 # Лабораторна робота 3: Реалізація перетворень між системами координат
 
-<div align="center">
-<a href="https://codepen.io/pienovakatya/pen/vEBGbLG" target="_blank">
-     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
-</a>
-</div>
+<p align="center">
+ <a href="https://codepen.io/ArtemGetman/pen/MYgKKjG" target="_blank" style="text-decoration: none;">
+   <img src="https://img.shields.io/badge/-Спробувати_застосунок_в_CodePen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Переглянути проєкт в CodePen">
+ </a>
+</p>
 
 ## Мета роботи
 Розробка та імплементація програмного забезпечення для виконання перетворень між різними системами координат з подальшим аналізом ефективності методів обчислення відстаней.
