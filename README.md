@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://codepen.io/ArtemGetman/full/EaYPPbM" target="_blank">
-   <img src="https://img.shields.io/badge/Демо_проєкту-22272E?style=for-the-badge" alt="Демо проєкту">
+   <img src="https://img.shields.io/badge/Онлайн_демонстрація-4B0082?style=for-the-badge" alt="Демонстрація проєкту">
  </a>
 </p>
 
