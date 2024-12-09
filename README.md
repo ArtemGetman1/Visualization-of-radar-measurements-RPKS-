@@ -1,7 +1,9 @@
 # Лабораторна робота 3: Реалізація перетворень між системами координат
 
 <div align="center">
-[![Open in CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pienovakatya/pen/vEBGbLG)
+<a href="https://codepen.io/pienovakatya/pen/vEBGbLG" target="_blank">
+     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Open in CodePen"/>
+</a>
 </div>
 
 ## Мета роботи
